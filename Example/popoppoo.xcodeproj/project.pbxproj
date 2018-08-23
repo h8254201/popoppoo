@@ -13,14 +13,14 @@
 
 /* Begin PBXFileReference section */
 		0B6538DCDB009A652B1C3934 /* Pods-popoppoo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-popoppoo_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-popoppoo_Tests/Pods-popoppoo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		5179E653810A580815E69CF9 /* popoppoo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = popoppoo.podspec; path = ../popoppoo.podspec; sourceTree = "<group>"; };
+		5179E653810A580815E69CF9 /* popoppoo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = popoppoo.podspec; path = ../popoppoo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACE51AFB9204008FA782 /* popoppoo_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = popoppoo_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		8AED2D3C24A9748E7ABA5C20 /* Pods-popoppoo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-popoppoo_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-popoppoo_Tests/Pods-popoppoo_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		929AB26641C3566116FE066A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		929AB26641C3566116FE066A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		B60017447AD9FDA114E0130A /* Pods_popoppoo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_popoppoo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C642B543F36708C04E755BB5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		C642B543F36708C04E755BB5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,10 +130,6 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
-					607FACCF1AFB9204008FA782 = {
-						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
-					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 0900;

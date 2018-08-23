@@ -1,0 +1,16 @@
+PODS:
+  - popoppoo (1.0.0)
+
+DEPENDENCIES:
+  - popoppoo (from `../`)
+
+EXTERNAL SOURCES:
+  popoppoo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  popoppoo: 0fefa24564d4ccb69d5649a966cd7698fc825fcb
+
+PODFILE CHECKSUM: d0295a7a0c37ae6e9d150f10e0c3e404721ed84a
+
+COCOAPODS: 1.5.3

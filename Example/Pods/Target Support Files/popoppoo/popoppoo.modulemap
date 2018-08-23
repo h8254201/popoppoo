@@ -1,0 +1,6 @@
+framework module popoppoo {
+  umbrella header "popoppoo-umbrella.h"
+
+  export *
+  module * { export * }
+}
